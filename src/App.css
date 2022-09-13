@@ -27,6 +27,22 @@
 .App-link {
   color: #61dafb;
 }
+.mb-3 {
+  margin:50px auto 50px;
+        padding: 10px 10px 10px 10px;
+        border: 4px solid #88b40d;
+        border-radius: 10px;
+        font-size:1.1em;
+        font-family: 'Merriweather&display=swap', serif;
+}
+.mb-4{
+  margin:50px auto 50px;
+  padding: 10px 10px 10px 10px;
+  border: 4px solid #bd8d0c;
+  border-radius: 10px;
+  font-size:1.1em;
+  font-family: 'Merriweather&display=swap', serif;
+}
 
 @keyframes App-logo-spin {
   from {
